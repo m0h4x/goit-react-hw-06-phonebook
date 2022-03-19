@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://m0h4x.github.io/goit-react-hw-06-phonebook/",
   "dependencies": {
+    "@emotion/styled": "^11.8.1",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
